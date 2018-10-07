@@ -1,2 +1,3 @@
 # hello_world
-just another repo.
+my name is namikawa hideki
+whatchu gunna do
